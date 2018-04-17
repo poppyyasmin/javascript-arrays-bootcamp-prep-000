@@ -11,5 +11,5 @@ return chocolateBars.unshift(candyString);
 }
 
 function addElementToEndOfArray(chocolateBars, candyString){
-  
+  return [...chocolateBars, ]
 }
