@@ -6,4 +6,5 @@ function addElementToBeginningOfArray(chocolateBars, candyString){
   return [candyString, ...chocolateBars];
 }
 
-function des
+function destructivelyAddElementToBeginningofArray(chocolateBars, candyString);
+return 
